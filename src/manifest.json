@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.nickbrady.ColorCode",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "ColorCode",
+	"description": "ColorCode is a powerful Joplin extension that simplifies note-taking by allowing you to quickly highlight and color-code text within your notes. With intuitive shorthand commands, you can easily add visual emphasis to key points, organize your thoughts, and make your notes more engaging.",
+	"author": "Nick Brady",
+	"homepage_url": "",
+	"repository_url": "https://github.com/peppapig450/ColorCode",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {}
+}
